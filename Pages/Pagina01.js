@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { View, StyleSheet, Image, Dimensions, Text, TouchableOpacity, TextInput } from 'react-native';
 
-
 const screenWidth = Dimensions.get('window').width; //Variavel para puxar a largura da tela. NÃO MEXER.
 
 const Pagina01 = () => {
